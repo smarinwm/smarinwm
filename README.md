@@ -27,13 +27,14 @@ MariaDB, MySQL, Oracle y SQLite.
 
 ### 📫 - Contacto
 
-Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn](https://www.linkedin.com/in/silveriomarín).
+Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn.](https://www.linkedin.com/in/silveriomarín)
 
 ### :scroll: - Últimos estudios realizados.
 
-![Carrera Especialista en Posicionamiento y Analítica Web](/CertificadosCarreras/Carrera-Especialista-en-Posicionamiento-y-Analítica-Web.jpg)
-![Carrera Programador Android](/CertificadosCarreras/Carrera-Programador-Android.jpg)
-![Carrera PHP Developer](/CertificadosCarreras/Carrera-PHP-Developer.jpg)
-![Carrera Experto en Metodologías Ágiles](/CertificadosCarreras/Carrera-Experto-en-Metodologías-Ágiles.jpg)
-![Carrera Scrum Master](/CertificadosCarreras/Carrera-Scrum-Master.jpg)
+* [Carrera Especialista en Posicionamiento y Analítica Web.](https://openwebinars.net/cert/4B8WJ)
+* [Carrera Programador Android.](https://openwebinars.net/cert/72kWg)
+* [Carrera PHP Developer.](https://openwebinars.net/cert/RBGgQ)
+* [Carrera Experto en Metodologías Ágiles.](https://openwebinars.net/cert/8YwWn)
+* [Carrera Scrum Master.](https://openwebinars.net/cert/PwaXX)
+
 
