@@ -1,5 +1,5 @@
 # @SMARINWM
-#### "Ningún mar en calma hizo experto a un marinero"
+**"Ningún mar en calma hizo experto a un marinero"**
 
 ## 👋 Bienvenidos a mi repositorio.
 
@@ -27,6 +27,6 @@ MariaDB, MySQL, Oracle y SQLite.
 
 ### 📫 Contacto
 
-Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn](https://www.linkedin.com/in/silveriomarín)
+Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn](https://www.linkedin.com/in/silveriomarín).
 
 
