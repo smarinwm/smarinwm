@@ -22,7 +22,7 @@ Si tengo que elegir uno, me quedo con **Kotlin 💞️** por ahora.*
 
 MariaDB, MySQL, Oracle y SQLite.
 
-### :wrench: - IDE's 
+### :wrench: - IDEs 
 *Android Studio, IntelliJ, Visual Studio Code, NetBeans y Eclipse.*
 
 ### 📫 - Contacto
@@ -32,5 +32,8 @@ Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn](https://www.linked
 ### :scroll: - Últimos estudios realizados.
 
 ![Carrera Especialista en Posicionamiento y Analítica Web](/CertificadosCarreras/Carrera-Especialista-en-Posicionamiento-y-Analítica-Web.jpg)
-
+![Carrera Programador Android](/CertificadosCarreras/Carrera-Programador-Android.jpg)
+![Carrera PHP Developer](/CertificadosCarreras/Carrera-PHP-Developer.jpg)
+![Carrera Experto en Metodologías Ágiles](/CertificadosCarreras/Carrera-Experto-en-Metodologías-Ágiles.jpg)
+![Carrera Scrum Master](/CertificadosCarreras/Carrera-Scrum-Master.jpg)
 
