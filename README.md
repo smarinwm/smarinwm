@@ -9,7 +9,7 @@
 <br> <br>
 *Comparto con vosotros los pequeños trabajos que he realizado. Espero que os sirvan de inspiración.*
 
-### :mortar_board: Lenguajes que he estudiado. 
+### :mortar_board: - Lenguajes que he estudiado. 
 *Kotlin, TipeScript, PHP, Java, JavaScript, HTML5, CSS3 y Python.*
 
 #### :grey_question: La pregunta del millón. *¿Cuál de ellos te gusta más?* 
@@ -18,15 +18,19 @@ hay tantos dependes como situaciones que necesitemos resolver.
 Si tengo que elegir uno, me quedo con **Kotlin 💞️** por ahora.* 
 
 
-### :minidisc: Bases de datos.
+### :minidisc: - Bases de datos.
 
 MariaDB, MySQL, Oracle y SQLite.
 
-### :wrench: IDE's 
+### :wrench: - IDE's 
 *Android Studio, IntelliJ, Visual Studio Code, NetBeans y Eclipse.*
 
-### 📫 Contacto
+### 📫 - Contacto
 
 Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn](https://www.linkedin.com/in/silveriomarín).
+
+### :scroll: - Últimos estudios realizados.
+
+![Carrera Especialista en Posicionamiento y Analítica Web](/CertificadosCarreras/Carrera-Especialista-en-Posicionamiento-y-Analítica-Web.jpg)
 
 
