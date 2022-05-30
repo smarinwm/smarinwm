@@ -31,6 +31,7 @@ Puedes ponerte en contacto conmigo en [mi perfil de LinkedIn.](https://www.linke
 
 ### :scroll: - Últimos estudios realizados.
 
+* [Desarrollo de aplicaciones para dispositivos Android con Kotlin.]([https://github.com/smarinwm])
 * [Carrera Especialista en Posicionamiento y Analítica Web.](https://openwebinars.net/cert/4B8WJ)
 * [Carrera Programador Android.](https://openwebinars.net/cert/72kWg)
 * [Carrera PHP Developer.](https://openwebinars.net/cert/RBGgQ)
