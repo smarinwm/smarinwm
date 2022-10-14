@@ -20,10 +20,10 @@ Si tengo que elegir uno, me quedo con **Kotlin 💞️** por ahora.*
 
 ### :minidisc: - Bases de datos.
 
-MariaDB, MySQL, Oracle y SQLite.
+SQL Server, MariaDB, MySQL, Oracle y SQLite.
 
 ### :wrench: - IDEs 
-*Android Studio, IntelliJ, Visual Studio Code, NetBeans y Eclipse.*
+*Visual Studio, Android Studio, IntelliJ, Visual Studio Code, NetBeans y Eclipse.*
 
 ### 📫 - Contacto
 
