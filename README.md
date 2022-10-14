@@ -10,7 +10,7 @@
 *Comparto con vosotros los pequeños trabajos que he realizado. Espero que os sirvan de inspiración.*
 
 ### :mortar_board: - Lenguajes que he estudiado. 
-*Kotlin, TipeScript, PHP, Java, JavaScript, HTML5, CSS3 y Python.*
+*C#, Kotlin, TipeScript, PHP, Java, JavaScript, HTML5, CSS3 y Python.*
 
 #### :grey_question: La pregunta del millón. *¿Cuál de ellos te gusta más?* 
 *La respuesta es un buen **DEPENDE** :smiley:. Depende de donde, depende de para, 
