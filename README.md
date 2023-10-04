@@ -1,11 +1,11 @@
 # @SMARINWM
-**"Ningún mar en calma hizo experto a un marinero"**
+**La cita que me impulsa diariamente es: "Ningún mar en calma hizo experto a un marinero".**
 
 ## 👋 Bienvenidos a mi repositorio.
 
 *Mi nombre es Silverio Marín, y soy un apasionado de la informática.*
 <br><br>
-*He decidido reinventarme y formarme en un perfil más técnico en programación. Durante los últimos años he estado estudiando distintos lenguajes de programación. Cada día descubro algo nuevo que me motiva a seguir estudiando.*
+*Decidí emprender una transformación personal, orientándome hacia un perfil más técnico en programación. En los últimos años, me he dedicado a estudiar diversos lenguajes de programación. Cada día, la fascinación de descubrir algo nuevo me impulsa a seguir profundizando en mis conocimientos. Este viaje de aprendizaje continuo no solo es un desafío constante, sino también la esencia que da significado a mi evolución profesional.*
 <br> <br>
 *Comparto con vosotros los pequeños trabajos que he realizado. Espero que os sirvan de inspiración.*
 
