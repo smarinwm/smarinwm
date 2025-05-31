@@ -36,7 +36,7 @@ Me impulsa la curiosidad, el aprendizaje continuo y el deseo de resolver problem
 
 ## 📬 Contacto
 
-📎 [LinkedIn - Silverio Marín](www.linkedin.com/in/silveriomarin)  
+📎 [LinkedIn - Silverio Marín](https://www.linkedin.com/in/silveriomarin)  
 📫 Siempre abierto a compartir, aprender y colaborar.
 
 
