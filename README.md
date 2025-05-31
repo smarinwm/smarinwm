@@ -39,13 +39,6 @@ Me impulsa la curiosidad, el aprendizaje continuo y el deseo de resolver problem
 📎 [LinkedIn - Silverio Marín](https://www.linkedin.com/in/silveriomarín)  
 📫 Siempre abierto a compartir, aprender y colaborar.
 
----
-
-## 📌 Proyectos destacados
-
-- [🔒 Automatización de seguridad en AWS](#)
-- [📦 API REST con .NET + Swagger + Docker](#)
-- [🌐 Sitio web optimizado SEO + AMP](#)
 
 ---
 
