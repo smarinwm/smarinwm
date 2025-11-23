@@ -8,15 +8,8 @@
 
   ---
 
-  <a href="https://www.linkedin.com/in/silveriomarin">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:smarinwm@yahoo.es">
-    <img src="https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/silverio-marin">
-    <img src="https://img.shields.io/badge/Credly-Certificaciones-orange?style=for-the-badge&logo=credly" />
-  </a>
+  <a href="https://www.linkedin.com/in/silveriomarin">  </a>
+  <a href="https://www.credly.com/users/silverio-marin">  </a>
 
 </div>
 
@@ -26,9 +19,10 @@
 
 > 💡 *"Facilitar el acceso a la tecnología desde una perspectiva útil, motivadora y humana."*
 
-[cite_start]Soy un **Docente Técnico especializado en TIC** con más de **20 años de experiencia** en el sector. [cite_start]Combino una sólida base técnica en desarrollo Full Stack y Cloud con una clara **vocación pedagógica**[cite: 11].
+Soy un **Docente Técnico especializado en TIC** con más de **20 años de experiencia** en el sector. 
+Combino una sólida base técnica en desarrollo Full Stack y Cloud con una clara **vocación pedagógica**.
 
-[cite_start]Mi objetivo no es solo transmitir datos, sino aplicar dinámicas como la **gamificación** y los **retos técnicos** para fomentar un aprendizaje significativo.
+Mi objetivo no es solo transmitir datos, sino aplicar dinámicas como la **gamificación** y los **retos técnicos** para fomentar un aprendizaje significativo.
 
 * 🎓 **Certificado en Docencia de la Formación Profesional para el Empleo (FPE)**.
 * 🧩 **Metodología:** Enfoque práctico, materiales visuales estructurados y evaluación por competencias.
