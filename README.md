@@ -6,7 +6,7 @@ Actualmente centro mi actividad profesional en la **formación tecnológica**, t
 
 Mis principales áreas de trabajo son **Programación, Cloud Computing, Ciberseguridad, Inteligencia Artificial, Sistemas y Redes y Gestión de Proyectos TI**.
 
-🌐 **Web profesional:** [silveriomarin.com](https://silveriomarin.com/)
+🌐 **Web profesional:** [https://silveriomarin.com](https://silveriomarin.com/)
 
 ---
 
@@ -67,13 +67,14 @@ Cuento con certificaciones y credenciales profesionales en distintas áreas de t
 
 Utilizo este espacio para proyectos, ejemplos técnicos, experimentación y recursos relacionados con las tecnologías con las que trabajo y que forman parte de mi actividad profesional y docente.
 
-> 💡 *"Ningún mar en calma hizo experto a un marinero."*
+> 💡 *“Ningún mar en calma hizo experto a un marinero.”*
+> Resume mi filosofía profesional: aprendizaje continuo, adaptación y mejora constante.
 
 ---
 
 ## 📬 Contacto
 
-🌐 [silveriomarin.com](https://silveriomarin.com/)
+🌐 [https://silveriomarin.com](https://silveriomarin.com/)
 💼 [LinkedIn — Silverio Marín](https://www.linkedin.com/in/silveriomarin)
 
 📍 Valencia, España
